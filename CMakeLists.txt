@@ -7,6 +7,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14 -pipe -fPIC -g")
 add_subdirectory(observer_pattern)
 add_subdirectory(chain_of_responsibility_pattern)
 add_subdirectory(strategy_pattern)
+add_subdirectory(adapter_pattern)
 
 add_executable(test test.cpp)
 
