@@ -8,6 +8,7 @@ add_subdirectory(observer_pattern)
 add_subdirectory(chain_of_responsibility_pattern)
 add_subdirectory(strategy_pattern)
 add_subdirectory(adapter_pattern)
+add_subdirectory(decorator_pattern)
 
 add_executable(test test.cpp)
 
