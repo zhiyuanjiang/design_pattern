@@ -10,6 +10,7 @@ add_subdirectory(strategy_pattern)
 add_subdirectory(adapter_pattern)
 add_subdirectory(decorator_pattern)
 add_subdirectory(composite_pattern)
+add_subdirectory(singleton_pattern)
 
 add_executable(test test.cpp)
 
